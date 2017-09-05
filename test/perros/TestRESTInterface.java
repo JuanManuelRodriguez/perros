@@ -22,7 +22,8 @@ import com.fasterxml.jackson.databind.node.ObjectNode;
 
 public class TestRESTInterface {
 
-	public final String BASE_URL="http://localhost:8080/Practico-Jersey";
+	public final String BASE_URL="http://localhost:8080/Practico-Jersey/api";
+
 	public final HttpClient client = HttpClientBuilder.create().build();
 
 	@Test
