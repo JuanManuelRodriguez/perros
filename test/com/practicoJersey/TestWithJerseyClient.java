@@ -1,7 +1,5 @@
-package perros;
+package com.practicoJersey;
 
-import org.apache.http.HttpResponse;
-import org.apache.http.client.methods.HttpGet;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -14,7 +12,7 @@ import com.sun.jersey.api.client.WebResource;
 public class TestWithJerseyClient {
 
 	 
-	public final String BASE_URL="http://localhost:8080/Practico-Jersey/api";
+	public final String BASE_URL="http://localhost:8080/TUDAI-Practico-Jersey/api";
 
 	public Client client = Client.create();
 

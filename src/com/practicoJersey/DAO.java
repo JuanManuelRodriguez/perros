@@ -1,4 +1,4 @@
-package perros;
+package com.practicoJersey;
 
 import java.io.Serializable;
 import java.util.List;

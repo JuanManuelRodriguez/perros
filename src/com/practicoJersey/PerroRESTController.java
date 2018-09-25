@@ -1,4 +1,4 @@
-package perros;
+package com.practicoJersey;
 
 import java.util.List;
 

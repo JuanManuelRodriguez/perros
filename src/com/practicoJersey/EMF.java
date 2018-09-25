@@ -1,4 +1,4 @@
-package perros;
+package com.practicoJersey;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

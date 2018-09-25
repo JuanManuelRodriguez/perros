@@ -1,4 +1,4 @@
-package perros;
+package com.practicoJersey;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -22,7 +22,7 @@ import com.fasterxml.jackson.databind.node.ObjectNode;
 
 public class TestWithApacheHTTPClient {
 
-	public final String BASE_URL="http://localhost:8080/Practico-Jersey/api";
+	public final String BASE_URL="http://localhost:8080/TUDAI-Practico-Jersey/api";
 
 	public final HttpClient client = HttpClientBuilder.create().build();
 
